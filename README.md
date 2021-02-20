@@ -1,4 +1,4 @@
-# Keepass_SCPsync
+# Keepass SCP sync
 Synchronize Keepass databases via SCP
 
 ## Script Procedure
